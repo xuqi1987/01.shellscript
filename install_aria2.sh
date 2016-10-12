@@ -30,3 +30,10 @@ sudo apt-get install autopoint -y
 
 sudo apt-get install libtool -y
 
+cd aria2
+
+autoreconf -i
+
+./configure
+
+make -j4
