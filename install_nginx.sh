@@ -1,6 +1,7 @@
-sudp apt-get update 
+sudo apt-get update 
+wget https://nginx.org/keys/nginx_signing.key
 sudo apt-key add nginx_signing.key
-
+rm nginx_signing.key
 sudo apt-get install nginx -y
 
 cd ..
