@@ -1,11 +1,9 @@
 cd ..
-wget https://github.com/zeromq/zeromq4-1/releases/download/v4.1.5/zeromq-4.1.5.tar.gz
-tar -xvf zeromq-4.1.5.tar.gz
-cd zeromq-4.1.5
-./configure
-make -j 4
-sudo make install
-sudo ldconfig
+
+git clone https://github.com/zeromq/libzmq
+./autogen.sh && ./configure && make -j 4
+make check && make install && sudo ldconfig
+
 
 git clone git://github.com/zeromq/pyzmq.git
 
