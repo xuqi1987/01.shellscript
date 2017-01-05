@@ -4,7 +4,7 @@ mkdir ~/shadowsocks/
 cd ~/shadowsocks/
 echo "{" >ss.json
 ip=`ifconfig eth1 | grep "inet addr:" | awk '{print $2}' | cut -c 6-`
-echo '"server"':'"$ip$"',>>ss.json
+echo '"server"':'"'${ip}'"', >>ss.json
 echo   '"server_port"':8888, >>ss.json 
 echo   '"password"':'"123456"', >>ss.json
 echo    '"timeout"':300, >>ss.json 
