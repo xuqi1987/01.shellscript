@@ -1,0 +1,1315 @@
+fatal: destination path 'aria2' already exists and is not an empty directory.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libgnutls-dev is already the newest version (3.4.10-4ubuntu1.3).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nettle-dev is already the newest version (3.2-1ubuntu0.16.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libgmp-dev is already the newest version (2:6.1.0+dfsg-2).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libssh2-1-dev is already the newest version (1.5.0-2ubuntu0.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libc-ares-dev is already the newest version (1.10.0-3ubuntu0.2).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libxml2-dev is already the newest version (2.9.3+dfsg1-1ubuntu0.3).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+zlib1g-dev is already the newest version (1:1.2.8.dfsg-2ubuntu4.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libsqlite3-dev is already the newest version (3.11.0-1ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+pkg-config is already the newest version (0.29.1-0ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libcppunit-dev is already the newest version (1.13.2-2.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+autoconf is already the newest version (2.69-9).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+automake is already the newest version (1:1.15-4ubuntu1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+autotools-dev is already the newest version (20150820.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+autopoint is already the newest version (0.19.7-2ubuntu3).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+sudo: unable to resolve host XuQi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libtool is already the newest version (2.4.6-0.1).
+0 upgraded, 0 newly installed, 0 to remove and 126 not upgraded.
+configure.ac:731: warning: The 'AM_PROG_MKDIR_P' macro is deprecated, and its use is discouraged.
+configure.ac:731: You should use the Autoconf-provided 'AC_PROG_MKDIR_P' macro instead,
+configure.ac:731: and use '$(MKDIR_P)' instead of '$(mkdir_p)'in your Makefile.am files.
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking target system type... x86_64-pc-linux-gnu
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... no
+checking for mawk... mawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking for style of include used by make... GNU
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking how to print strings... printf
+checking for a sed that does not truncate output... /bin/sed
+checking for fgrep... /bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for mt... mt
+checking if mt is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... no
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... gcc3
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the g++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC -DPIC
+checking if g++ PIC flag -fPIC -DPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking dependency style of gcc... (cached) gcc3
+checking for bison... no
+checking for byacc... no
+checking dependency style of gcc... gcc3
+checking for ar... (cached) ar
+checking for sphinx-build... no
+checking for rst2html.py... no
+checking for rst2html... no
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.20... yes
+checking whether g++ supports C++11 features by default... no
+checking whether g++ supports C++11 features with -std=c++11 ... yes
+checking whether the c++ compiler supports nullptr... checking whether the C++ compiler supports `override` keyword... yes
+checking for CPPUNIT... yes
+checking for ZLIB... yes
+checking for gzbuffer... yes
+checking for gzsetparams... yes
+checking for LIBXML2... yes
+checking for SQLITE3... yes
+checking for sqlite3_open_v2... yes
+checking whether to enable Mac OS X native SSL/TLS... no
+checking for main in -lcrypt32... no
+checking for main in -lsecur32... no
+checking for main in -ladvapi32... no
+checking for wincrypt.h... no
+checking for security.h... no
+checking for LIBGNUTLS... yes
+checking for gnutls_certificate_set_x509_system_trust... yes
+checking for LIBNETTLE... yes
+checking for __gmpz_init in -lgmp... yes
+checking for __gmpz_powm_sec... yes
+checking for LIBSSH2... yes
+checking for LIBCARES... yes
+checking for ares_addr_node... yes
+checking for ares_set_servers... yes
+checking for size_t... yes
+checking for working alloca.h... yes
+checking for alloca... yes
+checking for ANSI C header files... (cached) yes
+checking argz.h usability... yes
+checking argz.h presence... yes
+checking for argz.h... yes
+checking arpa/inet.h usability... yes
+checking arpa/inet.h presence... yes
+checking for arpa/inet.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking float.h usability... yes
+checking float.h presence... yes
+checking for float.h... yes
+checking for inttypes.h... (cached) yes
+checking langinfo.h usability... yes
+checking langinfo.h presence... yes
+checking for langinfo.h... yes
+checking libintl.h usability... yes
+checking libintl.h presence... yes
+checking for libintl.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking malloc.h usability... yes
+checking malloc.h presence... yes
+checking for malloc.h... yes
+checking netdb.h usability... yes
+checking netdb.h presence... yes
+checking for netdb.h... yes
+checking netinet/in.h usability... yes
+checking netinet/in.h presence... yes
+checking for netinet/in.h... yes
+checking netinet/tcp.h usability... yes
+checking netinet/tcp.h presence... yes
+checking for netinet/tcp.h... yes
+checking poll.h usability... yes
+checking poll.h presence... yes
+checking for poll.h... yes
+checking port.h usability... no
+checking port.h presence... no
+checking for port.h... no
+checking signal.h usability... yes
+checking signal.h presence... yes
+checking for signal.h... yes
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking for stdint.h... (cached) yes
+checking stdio_ext.h usability... yes
+checking stdio_ext.h presence... yes
+checking for stdio_ext.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for strings.h... (cached) yes
+checking sys/ioctl.h usability... yes
+checking sys/ioctl.h presence... yes
+checking for sys/ioctl.h... yes
+checking sys/param.h usability... yes
+checking sys/param.h presence... yes
+checking for sys/param.h... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking sys/signal.h usability... yes
+checking sys/signal.h presence... yes
+checking for sys/signal.h... yes
+checking sys/socket.h usability... yes
+checking sys/socket.h presence... yes
+checking for sys/socket.h... yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking for sys/types.h... (cached) yes
+checking sys/uio.h usability... yes
+checking sys/uio.h presence... yes
+checking for sys/uio.h... yes
+checking sys/utsname.h usability... yes
+checking sys/utsname.h presence... yes
+checking for sys/utsname.h... yes
+checking termios.h usability... yes
+checking termios.h presence... yes
+checking for termios.h... yes
+checking for unistd.h... (cached) yes
+checking utime.h usability... yes
+checking utime.h presence... yes
+checking for utime.h... yes
+checking wchar.h usability... yes
+checking wchar.h presence... yes
+checking for wchar.h... yes
+checking ifaddrs.h usability... yes
+checking ifaddrs.h presence... yes
+checking for ifaddrs.h... yes
+checking pwd.h usability... yes
+checking pwd.h presence... yes
+checking for pwd.h... yes
+checking for stdbool.h that conforms to C99... yes
+checking for _Bool... no
+checking for an ANSI C-conforming const... yes
+checking for inline... inline
+checking for int16_t... yes
+checking for int32_t... yes
+checking for int64_t... yes
+checking for int8_t... yes
+checking for mode_t... yes
+checking for off_t... yes
+checking for size_t... (cached) yes
+checking for ssize_t... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for uint16_t... yes
+checking for uint32_t... yes
+checking for uint64_t... yes
+checking for uint8_t... yes
+checking for pid_t... yes
+checking for working volatile... yes
+checking for ptrdiff_t... yes
+checking for struct timespec... yes
+checking whether byte ordering is bigendian... no
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking whether NLS is requested... yes
+checking for msgfmt... /usr/bin/msgfmt
+checking for gmsgfmt... /usr/bin/msgfmt
+checking for xgettext... /usr/bin/xgettext
+checking for msgmerge... /usr/bin/msgmerge
+checking for ld used by GCC... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking for shared library run path origin... done
+checking for CFPreferencesCopyAppValue... no
+checking for CFLocaleCopyCurrent... no
+checking for GNU gettext in libc... yes
+checking whether to use NLS... yes
+checking where the gettext function comes from... libc
+checking for error_at_line... yes
+checking whether gcc needs -traditional... no
+checking for working memcmp... yes
+checking for sys/time.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for alarm... yes
+checking for working mktime... yes
+checking sys/select.h usability... yes
+checking sys/select.h presence... yes
+checking for sys/select.h... yes
+checking for sys/socket.h... (cached) yes
+checking types of arguments for select... int,fd_set *,struct timeval *
+checking whether lstat correctly handles trailing slash... yes
+checking whether stat accepts an empty string... no
+checking for strftime... yes
+checking for vprintf... yes
+checking for _doprnt... no
+checking vfork.h usability... no
+checking vfork.h presence... no
+checking for vfork.h... no
+checking for fork... yes
+checking for vfork... yes
+checking for working fork... yes
+checking for working vfork... (cached) yes
+checking for working strtod... yes
+checking for __argz_count... yes
+checking for __argz_next... yes
+checking for __argz_stringify... yes
+checking for atexit... yes
+checking for ftruncate... yes
+checking for getcwd... yes
+checking for gethostbyaddr... yes
+checking for gethostbyname... yes
+checking for getifaddrs... yes
+checking for getpagesize... yes
+checking for getrandom... no
+checking for memchr... yes
+checking for memmove... yes
+checking for mempcpy... yes
+checking for memset... yes
+checking for mkdir... yes
+checking for mmap... yes
+checking for munmap... yes
+checking for nl_langinfo... yes
+checking for posix_fadvise... yes
+checking for posix_memalign... yes
+checking for pow... yes
+checking for putenv... yes
+checking for rmdir... yes
+checking for select... yes
+checking for setlocale... yes
+checking for sigaction... yes
+checking for sleep... yes
+checking for socket... yes
+checking for stpcpy... yes
+checking for strcasecmp... yes
+checking for strchr... yes
+checking for strcspn... yes
+checking for strdup... yes
+checking for strerror... yes
+checking for strncasecmp... yes
+checking for strstr... yes
+checking for strtol... yes
+checking for strtoul... yes
+checking for strtoull... yes
+checking for tzset... yes
+checking for unsetenv... yes
+checking for usleep... yes
+checking for utime... yes
+checking for utimes... yes
+checking for getrandom linux syscall interface... yes
+checking for epoll_create... yes
+checking for posix_fallocate... yes
+checking for fallocate... yes
+checking for asctime_r... yes
+checking for localtime_r... yes
+checking for basename... yes
+checking for gai_strerror... yes
+checking for getaddrinfo... yes
+checking for gettimeofday... yes
+checking for strptime... yes
+checking for daemon... yes
+checking for poll... yes
+checking for timegm... yes
+checking for port_associate... no
+checking for kqueue... no
+checking for struct sockaddr_in.sin_len... no
+checking for struct sockaddr_in6.sin6_len... no
+checking whether struct option.name is assignable from const char*... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating src/libaria2.pc
+config.status: creating src/includes/Makefile
+config.status: creating test/Makefile
+config.status: creating po/Makefile.in
+config.status: creating lib/Makefile
+config.status: creating doc/Makefile
+config.status: creating doc/manual-src/Makefile
+config.status: creating doc/manual-src/en/Makefile
+config.status: creating doc/manual-src/en/conf.py
+config.status: creating doc/manual-src/ru/Makefile
+config.status: creating doc/manual-src/ru/conf.py
+config.status: creating doc/manual-src/pt/Makefile
+config.status: creating doc/manual-src/pt/conf.py
+config.status: creating deps/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing po-directories commands
+config.status: creating po/POTFILES
+config.status: creating po/Makefile
+=== configuring in deps/wslay (/root/aria2/deps/wslay)
+configure: running /bin/bash ./configure --disable-option-checking '--prefix=/usr/local'  --cache-file=/dev/null --srcdir=.
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking how to print strings... printf
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for a sed that does not truncate output... /bin/sed
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for fgrep... /bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking for gawk... no
+checking for mawk... mawk
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for mt... mt
+checking if mt is a manifest tool... no
+checking how to run the C preprocessor... gcc -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking target system type... x86_64-pc-linux-gnu
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking whether make sets $(MAKE)... yes
+checking for style of include used by make... GNU
+checking whether make supports nested variables... yes
+checking dependency style of gcc... gcc3
+checking for gcc... (cached) gcc
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to accept ISO C89... (cached) none needed
+checking whether gcc understands -c and -o together... (cached) yes
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the g++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking for g++ option to produce PIC... -fPIC -DPIC
+checking if g++ PIC flag -fPIC -DPIC works... yes
+checking if g++ static flag -static works... yes
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking dependency style of g++... gcc3
+checking whether ln -s works... yes
+checking whether make sets $(MAKE)... (cached) yes
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.20... yes
+checking for sphinx-build... no
+checking for NETTLE... yes
+checking for CU_initialize_registry in -lcunit... no
+checking arpa/inet.h usability... yes
+checking arpa/inet.h presence... yes
+checking for arpa/inet.h... yes
+checking netinet/in.h usability... yes
+checking netinet/in.h presence... yes
+checking for netinet/in.h... yes
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking for stdint.h... (cached) yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for size_t... yes
+checking for ssize_t... yes
+checking for uint8_t... yes
+checking for uint16_t... yes
+checking for uint32_t... yes
+checking for uint64_t... yes
+checking for ptrdiff_t... yes
+checking whether byte ordering is bigendian... no
+checking for memmove... yes
+checking for memset... yes
+checking for ntohl... yes
+checking for ntohs... yes
+checking for htons... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating lib/Makefile
+config.status: creating lib/libwslay.pc
+config.status: creating lib/includes/Makefile
+config.status: creating lib/includes/wslay/wslayver.h
+config.status: creating tests/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing libtool commands
+config.status: executing depfiles commands
+configure: summary of build options:
+
+    version:        1.0.1-DEV shared 0:1:0
+    Host type:      x86_64-pc-linux-gnu
+    Install prefix: /usr/local
+    C compiler:     gcc
+    CFlags:         -g -O2
+    Library types:  Shared=yes, Static=yes
+    CUnit:          no
+    Nettle:         yes
+    Build examples: yes
+
+configure: summary of build options:
+
+Build:          x86_64-pc-linux-gnu
+Host:           x86_64-pc-linux-gnu
+Target:         x86_64-pc-linux-gnu
+Install prefix: /usr/local
+CC:             gcc
+CXX:            g++
+CPP:            gcc -E
+CXXFLAGS:       -g -O2
+CFLAGS:         -g -O2
+CPPFLAGS:       
+LDFLAGS:        
+LIBS:           
+DEFS:           -DHAVE_CONFIG_H
+CXX1XCXXFLAGS:   -std=c++11 
+EXTRACXXFLAGS:   -pipe
+EXTRACFLAGS:     -pipe
+EXTRACPPFLAGS:  
+EXTRALDFLAGS:   
+EXTRALIBS:      
+WARNCXXFLAGS:   
+LibUV:          no (CFLAGS='' LIBS='')
+SQLite3:        yes (CFLAGS='-I/usr/local/include' LIBS='-L/usr/local/lib -lsqlite3')
+SSL Support:    yes
+AppleTLS:       no (LDFLAGS='')
+WinTLS:         no (LIBS='')
+GnuTLS:         yes (CFLAGS='-I/usr/include/p11-kit-1' LIBS='-lgnutls')
+OpenSSL:        no (CFLAGS='' LIBS='')
+CA Bundle:      
+LibNettle:      yes (CFLAGS='' LIBS='-lnettle')
+LibGmp:         yes (CFLAGS='' LIBS='-lgmp')
+LibGcrypt:      no (CFLAGS='' LIBS='')
+LibXML2:        yes (CFLAGS='-I/usr/include/libxml2' LIBS='-lxml2')
+LibExpat:       no (CFLAGS='' LIBS='')
+LibCares:       yes (CFLAGS='' LIBS='-lcares')
+Zlib:           yes (CFLAGS='' LIBS='-lz')
+Libssh2:        yes (CFLAGS='' LIBS='-lssh2')
+Tcmalloc:       no (CFLAGS='' LIBS='')
+Jemalloc:       no (CFLAGS='' LIBS='')
+Epoll:          yes
+Bittorrent:     yes
+Metalink:       yes
+XML-RPC:        yes
+Message Digest: libnettle
+WebSocket:      yes (CFLAGS='-I$(top_builddir)/deps/wslay/lib/includes -I$(top_srcdir)/deps/wslay/lib/includes' LIBS='$(top_builddir)/deps/wslay/lib/libwslay.la')
+Libaria2:       no (shared=yes static=no)
+bash_completion dir: ${datarootdir}/doc/${PACKAGE_TARNAME}/bash_completion
+Static build:   no
+
+make  all-recursive
+make[1]: Entering directory '/root/aria2'
+Making all in po
+make[2]: Entering directory '/root/aria2/po'
+make[2]: Leaving directory '/root/aria2/po'
+Making all in lib
+make[2]: Entering directory '/root/aria2/lib'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/root/aria2/lib'
+Making all in deps
+make[2]: Entering directory '/root/aria2/deps'
+Making all in wslay
+make[3]: Entering directory '/root/aria2/deps/wslay'
+make  all-recursive
+make[4]: Entering directory '/root/aria2/deps/wslay'
+Making all in lib
+make[5]: Entering directory '/root/aria2/deps/wslay/lib'
+Making all in includes
+make[6]: Entering directory '/root/aria2/deps/wslay/lib/includes'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/root/aria2/deps/wslay/lib/includes'
+make[6]: Entering directory '/root/aria2/deps/wslay/lib'
+/bin/bash ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DHAVE_CONFIG_H -I./includes -I./includes  -Wall -g -O2 -MT wslay_frame.lo -MD -MP -MF .deps/wslay_frame.Tpo -c -o wslay_frame.lo wslay_frame.c
+/bin/bash ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DHAVE_CONFIG_H -I./includes -I./includes  -Wall -g -O2 -MT wslay_event.lo -MD -MP -MF .deps/wslay_event.Tpo -c -o wslay_event.lo wslay_event.c
+/bin/bash ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DHAVE_CONFIG_H -I./includes -I./includes  -Wall -g -O2 -MT wslay_queue.lo -MD -MP -MF .deps/wslay_queue.Tpo -c -o wslay_queue.lo wslay_queue.c
+/bin/bash ../libtool  --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I..  -DHAVE_CONFIG_H -I./includes -I./includes  -Wall -g -O2 -MT wslay_net.lo -MD -MP -MF .deps/wslay_net.Tpo -c -o wslay_net.lo wslay_net.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_queue.lo -MD -MP -MF .deps/wslay_queue.Tpo -c wslay_queue.c  -fPIC -DPIC -o .libs/wslay_queue.o
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_event.lo -MD -MP -MF .deps/wslay_event.Tpo -c wslay_event.c  -fPIC -DPIC -o .libs/wslay_event.o
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_frame.lo -MD -MP -MF .deps/wslay_frame.Tpo -c wslay_frame.c  -fPIC -DPIC -o .libs/wslay_frame.o
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_net.lo -MD -MP -MF .deps/wslay_net.Tpo -c wslay_net.c  -fPIC -DPIC -o .libs/wslay_net.o
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_net.lo -MD -MP -MF .deps/wslay_net.Tpo -c wslay_net.c -o wslay_net.o >/dev/null 2>&1
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_queue.lo -MD -MP -MF .deps/wslay_queue.Tpo -c wslay_queue.c -o wslay_queue.o >/dev/null 2>&1
+mv -f .deps/wslay_net.Tpo .deps/wslay_net.Plo
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_frame.lo -MD -MP -MF .deps/wslay_frame.Tpo -c wslay_frame.c -o wslay_frame.o >/dev/null 2>&1
+mv -f .deps/wslay_queue.Tpo .deps/wslay_queue.Plo
+mv -f .deps/wslay_frame.Tpo .deps/wslay_frame.Plo
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I.. -DHAVE_CONFIG_H -I./includes -I./includes -Wall -g -O2 -MT wslay_event.lo -MD -MP -MF .deps/wslay_event.Tpo -c wslay_event.c -o wslay_event.o >/dev/null 2>&1
+mv -f .deps/wslay_event.Tpo .deps/wslay_event.Plo
+/bin/bash ../libtool  --tag=CC   --mode=link gcc -Wall -g -O2 -no-undefined -version-info 0:1:0  -o libwslay.la   wslay_frame.lo wslay_event.lo wslay_queue.lo wslay_net.lo  
+libtool: warning: '-version-info/-version-number' is ignored for convenience libraries
+libtool: link: rm -fr  .libs/libwslay.a .libs/libwslay.la
+libtool: link: ar cru .libs/libwslay.a .libs/wslay_frame.o .libs/wslay_event.o .libs/wslay_queue.o .libs/wslay_net.o 
+ar: `u' modifier ignored since `D' is the default (see `U')
+libtool: link: ranlib .libs/libwslay.a
+libtool: link: ( cd ".libs" && rm -f "libwslay.la" && ln -s "../libwslay.la" "libwslay.la" )
+make[6]: Leaving directory '/root/aria2/deps/wslay/lib'
+make[5]: Leaving directory '/root/aria2/deps/wslay/lib'
+Making all in tests
+make[5]: Entering directory '/root/aria2/deps/wslay/tests'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/root/aria2/deps/wslay/tests'
+make[5]: Entering directory '/root/aria2/deps/wslay'
+make[5]: Leaving directory '/root/aria2/deps/wslay'
+make[4]: Leaving directory '/root/aria2/deps/wslay'
+make[3]: Leaving directory '/root/aria2/deps/wslay'
+make[3]: Entering directory '/root/aria2/deps'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/root/aria2/deps'
+make[2]: Leaving directory '/root/aria2/deps'
+Making all in src
+make[2]: Entering directory '/root/aria2/src'
+Making all in includes
+make[3]: Entering directory '/root/aria2/src/includes'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/root/aria2/src/includes'
+make[3]: Entering directory '/root/aria2/src'
+  CXX      AbstractCommand.lo
+  CXX      AbstractSingleDiskAdaptor.lo
+  CXX      AbstractProxyResponseCommand.lo
+  CXX      AbstractProxyRequestCommand.lo
+virtual memory exhausted: Cannot allocate memory
+Makefile:2300: recipe for target 'AbstractProxyRequestCommand.lo' failed
+make[3]: *** [AbstractProxyRequestCommand.lo] Error 1
+make[3]: *** Waiting for unfinished jobs....
+make[3]: Leaving directory '/root/aria2/src'
+Makefile:2341: recipe for target 'all-recursive' failed
+make[2]: *** [all-recursive] Error 1
+make[2]: Leaving directory '/root/aria2/src'
+Makefile:556: recipe for target 'all-recursive' failed
+make[1]: *** [all-recursive] Error 1
+make[1]: Leaving directory '/root/aria2'
+Makefile:467: recipe for target 'all' failed
+make: *** [all] Error 2
+sudo: unable to resolve host XuQi
+Making install in po
+make[1]: Entering directory '/root/aria2/po'
+if test "aria2" = "gettext-tools"; then \
+  /bin/mkdir -p /usr/local/share/gettext/po; \
+  for file in Makefile.in.in remove-potcdate.sin quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot   Makevars.template; do \
+    /usr/bin/install -c -m 644 ./$file \
+		    /usr/local/share/gettext/po/$file; \
+  done; \
+  for file in Makevars; do \
+    rm -f /usr/local/share/gettext/po/$file; \
+  done; \
+else \
+  : ; \
+fi
+make[1]: Leaving directory '/root/aria2/po'
+Making install in lib
+make[1]: Entering directory '/root/aria2/lib'
+make[2]: Entering directory '/root/aria2/lib'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/root/aria2/lib'
+make[1]: Leaving directory '/root/aria2/lib'
+Making install in deps
+make[1]: Entering directory '/root/aria2/deps'
+Making install in wslay
+make[2]: Entering directory '/root/aria2/deps/wslay'
+Making install in lib
+make[3]: Entering directory '/root/aria2/deps/wslay/lib'
+Making install in includes
+make[4]: Entering directory '/root/aria2/deps/wslay/lib/includes'
+make[5]: Entering directory '/root/aria2/deps/wslay/lib/includes'
+make[5]: Nothing to be done for 'install-exec-am'.
+make[5]: Nothing to be done for 'install-data-am'.
+make[5]: Leaving directory '/root/aria2/deps/wslay/lib/includes'
+make[4]: Leaving directory '/root/aria2/deps/wslay/lib/includes'
+make[4]: Entering directory '/root/aria2/deps/wslay/lib'
+make[5]: Entering directory '/root/aria2/deps/wslay/lib'
+make[5]: Nothing to be done for 'install-exec-am'.
+make[5]: Nothing to be done for 'install-data-am'.
+make[5]: Leaving directory '/root/aria2/deps/wslay/lib'
+make[4]: Leaving directory '/root/aria2/deps/wslay/lib'
+make[3]: Leaving directory '/root/aria2/deps/wslay/lib'
+Making install in tests
+make[3]: Entering directory '/root/aria2/deps/wslay/tests'
+make[4]: Entering directory '/root/aria2/deps/wslay/tests'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/root/aria2/deps/wslay/tests'
+make[3]: Leaving directory '/root/aria2/deps/wslay/tests'
+make[3]: Entering directory '/root/aria2/deps/wslay'
+make[4]: Entering directory '/root/aria2/deps/wslay'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/root/aria2/deps/wslay'
+make[3]: Leaving directory '/root/aria2/deps/wslay'
+make[2]: Leaving directory '/root/aria2/deps/wslay'
+make[2]: Entering directory '/root/aria2/deps'
+make[3]: Entering directory '/root/aria2/deps'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/root/aria2/deps'
+make[2]: Leaving directory '/root/aria2/deps'
+make[1]: Leaving directory '/root/aria2/deps'
+Making install in src
+make[1]: Entering directory '/root/aria2/src'
+Making install in includes
+make[2]: Entering directory '/root/aria2/src/includes'
+make[3]: Entering directory '/root/aria2/src/includes'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Leaving directory '/root/aria2/src/includes'
+make[2]: Leaving directory '/root/aria2/src/includes'
+make[2]: Entering directory '/root/aria2/src'
+  CXX      AbstractProxyRequestCommand.lo
+  CXX      AdaptiveFileAllocationIterator.lo
+  CXX      AdaptiveURISelector.lo
+  CXX      AuthConfig.lo
+  CXX      AuthConfigFactory.lo
+  CXX      AutoSaveCommand.lo
+  CXX      BackupIPv4ConnectCommand.lo
+  CXX      base32.lo
+  CXX      bitfield.lo
+  CXX      BitfieldMan.lo
+  CXX      BufferedFile.lo
+  CXX      ByteArrayDiskWriter.lo
+  CXX      CheckIntegrityCommand.lo
+  CXX      CheckIntegrityDispatcherCommand.lo
+  CXX      CheckIntegrityEntry.lo
+  CXX      Checksum.lo
+  CXX      ChecksumCheckIntegrityEntry.lo
+  CXX      ChunkChecksum.lo
+  CXX      ChunkedDecodingStreamFilter.lo
+  CXX      ColorizedStream.lo
+  CXX      Command.lo
+  CXX      ConnectCommand.lo
+  CXX      console.lo
+  CXX      ConsoleStatCalc.lo
+  CXX      ContentTypeRequestGroupCriteria.lo
+  CXX      Context.lo
+  CXX      ContextAttribute.lo
+  CXX      Cookie.lo
+  CXX      CookieStorage.lo
+  CXX      cookie_helper.lo
+  CXX      CreateRequestCommand.lo
+  CXX      CUIDCounter.lo
+  CXX      DefaultAuthResolver.lo
+  CXX      DefaultBtProgressInfoFile.lo
+  CXX      DefaultDiskWriter.lo
+  CXX      DefaultDiskWriterFactory.lo
+  CXX      DefaultPieceStorage.lo
+  CXX      DefaultStreamPieceSelector.lo
+  CXX      DirectDiskAdaptor.lo
+  CXX      DiskAdaptor.lo
+  CXX      DlAbortEx.lo
+  CXX      DlRetryEx.lo
+  CXX      DNSCache.lo
+  CXX      DownloadCommand.lo
+  CXX      DownloadContext.lo
+  CXX      DownloadEngine.lo
+  CXX      DownloadEngineFactory.lo
+  CXX      DownloadFailureException.lo
+  CXX      DownloadHandler.lo
+  CXX      DownloadHandlerConstants.lo
+  CXX      DownloadResult.lo
+  CXX      download_handlers.lo
+  CXX      download_helper.lo
+  CXX      Exception.lo
+  CXX      FatalException.lo
+  CXX      FeatureConfig.lo
+  CXX      FeedbackURISelector.lo
+  CXX      File.lo
+  CXX      FileAllocationCommand.lo
+  CXX      FileAllocationDispatcherCommand.lo
+  CXX      FileAllocationEntry.lo
+  CXX      FileEntry.lo
+  CXX      FillRequestGroupCommand.lo
+  CXX      fmt.lo
+  CXX      FtpConnection.lo
+  CXX      FtpDownloadCommand.lo
+  CXX      FtpFinishDownloadCommand.lo
+  CXX      FtpInitiateConnectionCommand.lo
+  CXX      FtpNegotiationCommand.lo
+  CXX      FtpTunnelRequestCommand.lo
+  CXX      FtpTunnelResponseCommand.lo
+  CXX      GeomStreamPieceSelector.lo
+  CXX      GroupId.lo
+  CXX      GrowSegment.lo
+  CXX      HaveEraseCommand.lo
+  CXX      help_tags.lo
+  CXX      HttpConnection.lo
+  CXX      HttpDownloadCommand.lo
+  CXX      HttpHeader.lo
+  CXX      HttpHeaderProcessor.lo
+  CXX      HttpInitiateConnectionCommand.lo
+  CXX      HttpListenCommand.lo
+  CXX      HttpProxyRequestCommand.lo
+  CXX      HttpProxyResponseCommand.lo
+  CXX      HttpRequest.lo
+  CXX      HttpRequestCommand.lo
+  CXX      HttpResponse.lo
+  CXX      HttpResponseCommand.lo
+  CXX      HttpServer.lo
+  CXX      HttpServerBodyCommand.lo
+  CXX      HttpServerCommand.lo
+  CXX      HttpServerResponseCommand.lo
+  CXX      HttpSkipResponseCommand.lo
+  CXX      InitiateConnectionCommand.lo
+  CXX      InitiateConnectionCommandFactory.lo
+  CXX      InorderStreamPieceSelector.lo
+  CXX      RandomStreamPieceSelector.lo
+  CXX      InorderURISelector.lo
+  CXX      IOFile.lo
+  CXX      IteratableChecksumValidator.lo
+  CXX      IteratableChunkChecksumValidator.lo
+  CXX      json.lo
+  CXX      JsonParser.lo
+  CXX      LogFactory.lo
+  CXX      Logger.lo
+  CXX      LongestSequencePieceSelector.lo
+  CXX      MessageDigest.lo
+  CXX      message_digest_helper.lo
+  CXX      MetadataInfo.lo
+  CXX      MetalinkHttpEntry.lo
+  CXX      MultiDiskAdaptor.lo
+  CXX      MultiFileAllocationIterator.lo
+  CXX      MultiUrlRequestInfo.lo
+  CXX      NameResolver.lo
+  CXX      Netrc.lo
+  CXX      NetrcAuthResolver.lo
+  CXX      NetStat.lo
+  CXX      Notifier.lo
+  CXX      NsCookieParser.lo
+  CXX      NullSinkStreamFilter.lo
+  CXX      Option.lo
+  CXX      OptionHandler.lo
+  CXX      OptionHandlerException.lo
+  CXX      OptionHandlerFactory.lo
+  CXX      OptionHandlerImpl.lo
+  CXX      OptionParser.lo
+  CXX      option_processing.lo
+  CXX      paramed_string.lo
+  CXX      PeerStat.lo
+  CXX      Piece.lo
+  CXX      PiecedSegment.lo
+  CXX      PieceHashCheckIntegrityEntry.lo
+  CXX      PieceStatMan.lo
+  CXX      Platform.lo
+  CXX      prefs.lo
+  CXX      ProtocolDetector.lo
+  CXX      Range.lo
+  CXX      RarestPieceSelector.lo
+  CXX      RealtimeCommand.lo
+  CXX      RecoverableException.lo
+  CXX      Request.lo
+  CXX      RequestGroup.lo
+  CXX      RequestGroupEntry.lo
+  CXX      RequestGroupMan.lo
+  CXX      RpcMethod.lo
+  CXX      RpcMethodFactory.lo
+  CXX      RpcMethodImpl.lo
+  CXX      RpcRequest.lo
+  CXX      RpcResponse.lo
+  CXX      rpc_helper.lo
+  CXX      SaveSessionCommand.lo
+  CXX      SegmentMan.lo
+  CXX      SelectEventPoll.lo
+  CXX      ServerStat.lo
+  CXX      ServerStatMan.lo
+  CXX      SessionSerializer.lo
+  CXX      Signature.lo
+  CXX      SimpleRandomizer.lo
+  CXX      SingleFileAllocationIterator.lo
+  CXX      SinkStreamFilter.lo
+  CXX      SocketBuffer.lo
+  CXX      SocketCore.lo
+  CXX      SocketRecvBuffer.lo
+  CXX      SpeedCalc.lo
+  CXX      StreamCheckIntegrityEntry.lo
+  CXX      StreamFileAllocationEntry.lo
+  CXX      StreamFilter.lo
+  CXX      TimeA2.lo
+  CXX      TimeBasedCommand.lo
+  CXX      TimedHaltCommand.lo
+  CXX      TimerA2.lo
+  CXX      TorrentAttribute.lo
+  CXX      TransferStat.lo
+  CXX      TruncFileAllocationIterator.lo
+  CXX      UnknownLengthPieceStorage.lo
+  CXX      UnknownOptionException.lo
+  CXX      uri.lo
+  CXX      UriListParser.lo
+  CXX      URIResult.lo
+  CC       uri_split.lo
+  CXX      util.lo
+  CXX      util_security.lo
+  CXX      ValueBase.lo
+  CXX      ValueBaseStructParserStateImpl.lo
+  CXX      ValueBaseStructParserStateMachine.lo
+  CXX      version_usage.lo
+  CXX      wallclock.lo
+  CXX      WatchProcessCommand.lo
+  CXX      WrDiskCache.lo
+  CXX      WrDiskCacheEntry.lo
+  CXX      XmlRpcRequestParserController.lo
+  CXX      OpenedFileCounter.lo
+  CXX      SHA1IOFile.lo
+  CXX      EvictSocketPoolCommand.lo
+  CXX      WebSocketInteractionCommand.lo
+  CXX      WebSocketResponseCommand.lo
+  CXX      WebSocketSession.lo
+  CXX      WebSocketSessionMan.lo
+  CXX      XmlAttr.lo
+  CXX      XmlParser.lo
+  CXX      Xml2XmlParser.lo
+  CXX      XmlRpcDiskWriter.lo
+  CXX      XmlRpcRequestParserStateImpl.lo
+  CXX      XmlRpcRequestParserStateMachine.lo
+  CXX      FallocFileAllocationIterator.lo
+  CXX      EpollEventPoll.lo
+  CXX      LibgnutlsTLSContext.lo
+  CXX      LibgnutlsTLSSession.lo
+  CXX      LibnettleARC4Encryptor.lo
+  CXX      LibnettleMessageDigestImpl.lo
+  CXX      a2gmp.lo
+  CXX      LibgmpDHKeyExchange.lo
+  CXX      GZipDecodingStreamFilter.lo
+  CXX      GZipEncoder.lo
+  CXX      GZipFile.lo
+  CXX      Adler32MessageDigestImpl.lo
+  CXX      Sqlite3CookieParser.lo
+  CXX      Sqlite3CookieParserImpl.lo
+  CXX      SSHSession.lo
+  CXX      SftpNegotiationCommand.lo
+  CXX      SftpDownloadCommand.lo
+  CXX      SftpFinishDownloadCommand.lo
+  CXX      AsyncNameResolver.lo
+  CXX      AsyncNameResolverMan.lo
+  CXX      AbstractBtMessage.lo
+  CXX      ActivePeerConnectionCommand.lo
+  CXX      AnnounceList.lo
+  CXX      AnnounceTier.lo
+  CXX      bencode2.lo
+  CXX      BencodeParser.lo
+  CXX      bittorrent_helper.lo
+  CXX      BtAbortOutstandingRequestEvent.lo
+  CXX      BtAllowedFastMessage.lo
+  CXX      BtAnnounce.lo
+  CXX      BtBitfieldMessage.lo
+  CXX      BtBitfieldMessageValidator.lo
+  CXX      BtCancelMessage.lo
+  CXX      BtCheckIntegrityEntry.lo
+  CXX      BtChokeMessage.lo
+  CXX      BtDependency.lo
+  CXX      BtExtendedMessage.lo
+  CXX      BtFileAllocationEntry.lo
+  CXX      BtHandshakeMessage.lo
+  CXX      BtHandshakeMessageValidator.lo
+  CXX      BtHaveAllMessage.lo
+  CXX      BtHaveMessage.lo
+  CXX      BtHaveNoneMessage.lo
+  CXX      BtInterestedMessage.lo
+  CXX      BtKeepAliveMessage.lo
+  CXX      BtLeecherStateChoke.lo
+  CXX      BtNotInterestedMessage.lo
+  CXX      BtPieceMessage.lo
+  CXX      BtPieceMessageValidator.lo
+  CXX      BtPortMessage.lo
+  CXX      BtPostDownloadHandler.lo
+  CXX      BtRegistry.lo
+  CXX      BtRejectMessage.lo
+  CXX      BtRequestMessage.lo
+  CXX      BtRuntime.lo
+  CXX      BtSeederStateChoke.lo
+  CXX      BtSetup.lo
+  CXX      BtStopDownloadCommand.lo
+  CXX      BtSuggestPieceMessage.lo
+  CXX      BtUnchokeMessage.lo
+  CXX      DefaultBtAnnounce.lo
+  CXX      DefaultBtInteractive.lo
+  CXX      DefaultBtMessageDispatcher.lo
+  CXX      DefaultBtMessageFactory.lo
+  CXX      DefaultBtMessageReceiver.lo
+  CXX      DefaultBtRequestFactory.lo
+  CXX      DefaultExtensionMessageFactory.lo
+  CXX      DefaultPeerStorage.lo
+  CXX      DHTAbstractMessage.lo
+  CXX      DHTAbstractTask.lo
+  CXX      DHTAnnouncePeerMessage.lo
+  CXX      DHTAnnouncePeerReplyMessage.lo
+  CXX      DHTAutoSaveCommand.lo
+  CXX      DHTBucket.lo
+  CXX      DHTBucketRefreshCommand.lo
+  CXX      DHTBucketRefreshTask.lo
+  CXX      DHTBucketTree.lo
+  CXX      DHTConnectionImpl.lo
+  CXX      DHTEntryPointNameResolveCommand.lo
+  CXX      DHTFindNodeMessage.lo
+  CXX      DHTFindNodeReplyMessage.lo
+  CXX      DHTGetPeersCommand.lo
+  CXX      DHTGetPeersMessage.lo
+  CXX      DHTGetPeersReplyMessage.lo
+  CXX      DHTInteractionCommand.lo
+  CXX      DHTMessage.lo
+  CXX      DHTMessageDispatcherImpl.lo
+  CXX      DHTMessageEntry.lo
+  CXX      DHTMessageFactoryImpl.lo
+  CXX      DHTMessageReceiver.lo
+  CXX      DHTMessageTracker.lo
+  CXX      DHTMessageTrackerEntry.lo
+  CXX      DHTNode.lo
+  CXX      DHTNodeLookupEntry.lo
+  CXX      DHTNodeLookupTask.lo
+  CXX      DHTNodeLookupTaskCallback.lo
+  CXX      DHTPeerAnnounceCommand.lo
+  CXX      DHTPeerAnnounceEntry.lo
+  CXX      DHTPeerAnnounceStorage.lo
+  CXX      DHTPeerLookupTask.lo
+  CXX      DHTPeerLookupTaskCallback.lo
+  CXX      DHTPingMessage.lo
+  CXX      DHTPingReplyMessage.lo
+  CXX      DHTPingTask.lo
+  CXX      DHTQueryMessage.lo
+  CXX      DHTRegistry.lo
+  CXX      DHTReplaceNodeTask.lo
+  CXX      DHTResponseMessage.lo
+  CXX      DHTRoutingTable.lo
+  CXX      DHTRoutingTableDeserializer.lo
+  CXX      DHTRoutingTableSerializer.lo
+  CXX      DHTSetup.lo
+  CXX      DHTTaskExecutor.lo
+  CXX      DHTTaskFactoryImpl.lo
+  CXX      DHTTaskQueueImpl.lo
+  CXX      DHTTokenTracker.lo
+  CXX      DHTTokenUpdateCommand.lo
+  CXX      DHTUnknownMessage.lo
+  CXX      ExtensionMessageRegistry.lo
+  CXX      HandshakeExtensionMessage.lo
+  CXX      IndexBtMessage.lo
+  CXX      IndexBtMessageValidator.lo
+  CXX      InitiatorMSEHandshakeCommand.lo
+  CXX      LpdDispatchMessageCommand.lo
+  CXX      LpdMessage.lo
+  CXX      LpdMessageDispatcher.lo
+  CXX      LpdMessageReceiver.lo
+  CXX      LpdReceiveMessageCommand.lo
+  CXX      magnet.lo
+  CXX      MSEHandshake.lo
+  CXX      NameResolveCommand.lo
+  CXX      Peer.lo
+  CXX      PeerAbstractCommand.lo
+  CXX      PeerAddrEntry.lo
+  CXX      PeerChokeCommand.lo
+  CXX      PeerConnection.lo
+  CXX      PeerInitiateConnectionCommand.lo
+  CXX      PeerInteractionCommand.lo
+  CXX      PeerListenCommand.lo
+  CXX      PeerReceiveHandshakeCommand.lo
+  CXX      PeerSessionResource.lo
+  CXX      PriorityPieceSelector.lo
+  CXX      RangeBtMessage.lo
+  CXX      RangeBtMessageValidator.lo
+  CXX      ReceiverMSEHandshakeCommand.lo
+  CXX      RequestSlot.lo
+  CXX      SeedCheckCommand.lo
+  CXX      ShareRatioSeedCriteria.lo
+  CXX      SimpleBtMessage.lo
+  CXX      TimeSeedCriteria.lo
+  CXX      TrackerWatcherCommand.lo
+  CXX      UDPTrackerClient.lo
+  CXX      UDPTrackerRequest.lo
+  CXX      UnionSeedCriteria.lo
+  CXX      UTMetadataDataExtensionMessage.lo
+  CXX      UTMetadataExtensionMessage.lo
+  CXX      UTMetadataPostDownloadHandler.lo
+  CXX      UTMetadataRejectExtensionMessage.lo
+  CXX      UTMetadataRequestExtensionMessage.lo
+  CXX      UTMetadataRequestFactory.lo
+  CXX      UTMetadataRequestTracker.lo
+  CXX      UTPexExtensionMessage.lo
+  CXX      ZeroBtMessage.lo
+  CXX      Metalink2RequestGroup.lo
+  CXX      MetalinkEntry.lo
+  CXX      Metalinker.lo
+  CXX      MetalinkMetaurl.lo
+  CXX      MetalinkParserController.lo
+  CXX      MetalinkParserState.lo
+  CXX      MetalinkParserStateImpl.lo
+  CXX      MetalinkParserStateMachine.lo
+  CXX      MetalinkParserStateV3Impl.lo
+  CXX      MetalinkParserStateV4Impl.lo
+  CXX      MetalinkPostDownloadHandler.lo
+  CXX      MetalinkResource.lo
+  CXX      metalink_helper.lo
+  CXX      PollEventPoll.lo
+  CC       getrandom_linux.lo
+  CXXLD    libaria2.la
+ar: `u' modifier ignored since `D' is the default (see `U')
+  CXX      main.o
+  CXXLD    aria2c
+make[3]: Entering directory '/root/aria2/src'
+ /bin/mkdir -p '/usr/local/bin'
+  /bin/bash ../libtool   --mode=install /usr/bin/install -c aria2c '/usr/local/bin'
+libtool: install: /usr/bin/install -c aria2c /usr/local/bin/aria2c
+make[3]: Leaving directory '/root/aria2/src'
+make[2]: Leaving directory '/root/aria2/src'
+make[1]: Leaving directory '/root/aria2/src'
+Making install in doc
+make[1]: Entering directory '/root/aria2/doc'
+Making install in manual-src
+make[2]: Entering directory '/root/aria2/doc/manual-src'
+Making install in en
+make[3]: Entering directory '/root/aria2/doc/manual-src/en'
+WARNING: Building only stub man pages. Please install sphinx-build: pip install sphinx
+if [ ! -d "_build/man" ]; then mkdir -p "_build/man"; fi;
+if [ ! -e "_build/man/aria2c.1" ]; then touch "_build/man/aria2c.1"; fi;
+make[4]: Entering directory '/root/aria2/doc/manual-src/en'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 _build/man/aria2c.1 '/usr/local/share/man/man1'
+make[4]: Leaving directory '/root/aria2/doc/manual-src/en'
+make[3]: Leaving directory '/root/aria2/doc/manual-src/en'
+Making install in ru
+make[3]: Entering directory '/root/aria2/doc/manual-src/ru'
+WARNING: Building only stub man pages. Please install sphinx-build: pip install sphinx
+if [ ! -d "_build/man" ]; then mkdir -p "_build/man"; fi;
+if [ ! -e "_build/man/aria2c.1" ]; then touch "_build/man/aria2c.1"; fi;
+make[4]: Entering directory '/root/aria2/doc/manual-src/ru'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/local/share/man/ru/man1'
+ /usr/bin/install -c -m 644 _build/man/aria2c.1 '/usr/local/share/man/ru/man1'
+make[4]: Leaving directory '/root/aria2/doc/manual-src/ru'
+make[3]: Leaving directory '/root/aria2/doc/manual-src/ru'
+Making install in pt
+make[3]: Entering directory '/root/aria2/doc/manual-src/pt'
+WARNING: Building only stub man pages. Please install sphinx-build: pip install sphinx
+if [ ! -d "_build/man" ]; then mkdir -p "_build/man"; fi;
+if [ ! -e "_build/man/aria2c.1" ]; then touch "_build/man/aria2c.1"; fi;
+make[4]: Entering directory '/root/aria2/doc/manual-src/pt'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/local/share/man/pt/man1'
+ /usr/bin/install -c -m 644 _build/man/aria2c.1 '/usr/local/share/man/pt/man1'
+make[4]: Leaving directory '/root/aria2/doc/manual-src/pt'
+make[3]: Leaving directory '/root/aria2/doc/manual-src/pt'
+make[3]: Entering directory '/root/aria2/doc/manual-src'
+make[4]: Entering directory '/root/aria2/doc/manual-src'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/root/aria2/doc/manual-src'
+make[3]: Leaving directory '/root/aria2/doc/manual-src'
+make[2]: Leaving directory '/root/aria2/doc/manual-src'
+make[2]: Entering directory '/root/aria2/doc'
+make[3]: Entering directory '/root/aria2/doc'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/local/share/doc/aria2/bash_completion'
+ /usr/bin/install -c -m 644 bash_completion/README.txt '/usr/local/share/doc/aria2/bash_completion'
+ /bin/mkdir -p '/usr/local/share/doc/aria2/bash_completion'
+ /usr/bin/install -c -m 644 bash_completion/aria2c '/usr/local/share/doc/aria2/bash_completion'
+ /bin/mkdir -p '/usr/local/share/doc/aria2/xmlrpc'
+ /usr/bin/install -c -m 644 xmlrpc/aria2mon xmlrpc/aria2rpc xmlrpc/README.txt '/usr/local/share/doc/aria2/xmlrpc'
+make[3]: Leaving directory '/root/aria2/doc'
+make[2]: Leaving directory '/root/aria2/doc'
+make[1]: Leaving directory '/root/aria2/doc'
+Making install in test
+make[1]: Entering directory '/root/aria2/test'
+make[2]: Entering directory '/root/aria2/test'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/root/aria2/test'
+make[1]: Leaving directory '/root/aria2/test'
+make[1]: Entering directory '/root/aria2'
+Warning: rst2html not installed. Placing only a dummy file for README.html
+echo "<!doctype html>" > README.html
+echo "<p>Readme has not been built!.<br>Instead see <a href='README.rst'>README.rst</a></p>" >> README.html
+make[2]: Entering directory '/root/aria2'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/local/share/doc/aria2'
+ /usr/bin/install -c -m 644 README README.rst README.html '/usr/local/share/doc/aria2'
+make[2]: Leaving directory '/root/aria2'
+make[1]: Leaving directory '/root/aria2'
+aria2 version 1.33.0
