@@ -1,0 +1,19 @@
+# Change this Variables for your project
+# TEMPLATE can be 'app' for application, 'so' for shared library, 'ar' for static library
+TARGET = DR_test
+TEMPLATE = app
+
+SOURCES += \
+    ./src/main.cpp 
+
+#include VMF
+INCLUDEPATH += ../../ai-sdk-forMiddleware-NGI/vmf_client/include
+
+LIBS += -L../GPSDR/lib -lshared_memory
+
+DEFS += -D__GCC
+
+INSTALL_DIR	:= 
+
+DEPLOY_TARGET_DIR := 
+
