@@ -1,7 +1,7 @@
 
-export Source="$(pwd)/source/"
-export Compressed="$(pwd)/compressed/"
-export Install="$(pwd)/install/"
+export Source="$(pwd)/source"
+export Compressed="$(pwd)/compressed"
+export Install="$(pwd)/install"
 
 if [ ! -d "$Install" ]; then
 
