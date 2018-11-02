@@ -1,4 +1,4 @@
-
+./clear.sh
 export Source="$(pwd)/source"
 export Compressed="$(pwd)/compressed"
 export Install="$(pwd)/install"

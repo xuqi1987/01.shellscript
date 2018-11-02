@@ -16,7 +16,7 @@ fi
 cp -rf gsnap $Install/bin/
 
 cd $Install
-tar -zcf $Install/../gsnap.tar.gz $Install/bin/ $Install/lib/ $Install/share/
+tar -zcf ../gsnap.tar.gz ./bin ./lib ./share
 
 
 
